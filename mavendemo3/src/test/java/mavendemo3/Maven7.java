@@ -7,6 +7,11 @@ public class Maven7 {
 	   System.out.println("first name");
 	   
 	   
+	   //adding new line
+	   
+	   System.out.println("added new line");
+	   
+	   
 	   
 	
 }
